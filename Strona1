@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>DYEB</title>
+<link rel="icon" href="pngDYEB.PNG" type="image/png">
+</head>
+<body style="background-color: gray;">
+
+<b><p style="font-size: 47px; text-align: center;">DYEB CORPORATION</p></b>
+
+<img src="pngDYEB.PNG" " width="200" height="200" style="display: block; margin: auto;">
+
+<b><p style="font-size: 33px; text-align: center;">⬇KLIKNIJ ŻEBY PRZEJŚĆ NA YT⬇</p></b>
+
+<a  href="https://www.youtube.com/@ZyebDib" target="_blank">
+    <img src="JĄDRO.PNG" alt="KLINIJ" width="200" height="100" style="display: block; margin: auto;">
+</a>
+
+</body>
+</html>
